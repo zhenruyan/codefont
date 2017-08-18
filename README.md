@@ -23,7 +23,7 @@
 ```
 
 ##   demo
-[demo](https://raw.githubusercontent.com/zhenruyan/codefont/master/demo.png)
+![demo](https://raw.githubusercontent.com/zhenruyan/codefont/master/demo.png)
 
 
 ``~/.config/fontconfig/conf.d`` 
