@@ -1,12 +1,12 @@
 #!/bin/bash
 
-# Set source and target directories
-powerline_fonts_dir=$( cd "$( dirname "$0" )" && pwd )
+# 设置字体源目录
+fontsrc=$( cd "$( dirname "$0" )" && pwd )
 
 # if an argument is given it is used to select wich fonts to install
 prefix="$1"
 
-find_command="find \"$powerline_fonts_dir\" \( -name '$prefix*.[o,t]tf' -or -name '$prefix*.pcf.gz' \) -type f -print0"
+find_command="find \"$fontsrc\" \( -name '$prefix*.[o,t]tf' -or -name '$prefix*.pcf.gz' \) -type f -print0"
 
 if [[ `uname` == 'Darwin' ]]; then
   # MacOS
