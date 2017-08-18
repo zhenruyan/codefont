@@ -6,12 +6,13 @@
 运行``./install.sh`` 安装全部字体
 
 
+
 快速安装
 ------------------
 
 ```
     # clone
-    git clone https://github.com/powerline/fonts.git --depth=1
+    git clone https://github.com/zhenruyan/codefont --depth=1
     # install
     cd fonts
     ./install.sh
