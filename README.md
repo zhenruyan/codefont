@@ -22,6 +22,9 @@
 
 ```
 
+##   demo
+[demo](https://raw.githubusercontent.com/zhenruyan/codefont/master/demo.png)
+
 
 ``~/.config/fontconfig/conf.d`` 
 ``fc-cache -vf``.
