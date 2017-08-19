@@ -26,5 +26,132 @@
 ![demo](https://raw.githubusercontent.com/zhenruyan/codefont/master/demo.png)
 
 
-``~/.config/fontconfig/conf.d`` 
-``fc-cache -vf``.
+##   已收录字体
+
+>先后不代表排名
+
+
+*   **3270**    
+
+*   **anka-coder**   
+
+*   **AnonymousPro**
+
+*   **Arimo**
+
+*   **aurulent**
+
+*   **average**
+
+*   **bitstream-vera**
+
+*   **bpmono**
+
+*   **camingocode**
+
+*   **code-new-roman**
+
+*   **consolamono**
+
+*   **Cousine**
+
+*   **cutive**
+
+*   **D2Coding**
+
+*   **dejavu**
+
+*   **DroidSansMono**
+
+*   **effects-eighty**
+
+*   **fantasque-sans**
+
+*   **fifteen**
+
+*   **FiraMono**
+
+*   **fixedsys**
+
+*   **gnu-freefont**
+
+*   **gnutypewriter**
+
+*   **go-mono**
+
+*   **gohu**
+
+*   **hack**
+
+*   **hermit**
+
+*   **Inconsolata**
+
+*   **InputMono**
+
+*   **iosevka**
+
+*   **latin-modern**
+
+*   **lekton**
+
+*   **liberation**
+
+*   **LiberationMono**
+
+*   **luculent**
+
+*   **luxi**
+
+*   **meslo**
+
+*   **Monofur**
+
+*   **monoid**
+
+*   **mononoki**
+
+*   **mplus**
+
+*   **notcouriersans**
+
+*   **NotoMono**
+
+*   **nova**
+
+*   **office-code-pro**
+
+*   **overpass**
+
+*   **oxygen**
+
+*   **ProFont**
+
+*   **proggy-clean**
+
+*   **quinze**
+
+*   **roboto**
+
+*   **space**
+
+*   **sudo**
+
+*   **SourceCodePro**
+
+*   **SymbolNeu**
+
+*   **tex-gyre-cursor**
+
+*   **Tinos**
+
+*   **UbuntuMono**
+
+*   **unifont**
+
+*   **verily**
+
+*   **vt323**
+
+
+
