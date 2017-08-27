@@ -1,0 +1,54 @@
+{
+  "_from": "centschbook-mono",
+  "_id": "centschbook-mono@3.2.1",
+  "_inBundle": false,
+  "_integrity": "sha1-+P6Q7gSJ9/l30nUUauomK4LogvM=",
+  "_location": "/centschbook-mono",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "centschbook-mono",
+    "name": "centschbook-mono",
+    "escapedName": "centschbook-mono",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/centschbook-mono/download/centschbook-mono-3.2.1.tgz",
+  "_shasum": "f8fe90ee0489f7f977d275146aea262b82e882f3",
+  "_spec": "centschbook-mono",
+  "_where": "/home/free/temp",
+  "author": {
+    "name": "Jesus Christ"
+  },
+  "bugs": {
+    "url": "https://github.com/st-luke/centschbook-mono/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "plant": ">= 0.0.1"
+  },
+  "deprecated": false,
+  "description": "One of the best fonts ever invented.",
+  "homepage": "https://github.com/st-luke/centschbook-mono#readme",
+  "keywords": [
+    "century",
+    "schoolbook",
+    "pro",
+    "mono",
+    "font"
+  ],
+  "license": "idk",
+  "main": "Century-Schoolbook-Monospace-BT.ttf",
+  "name": "centschbook-mono",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/st-luke/centschbook-mono.git"
+  },
+  "version": "3.2.1"
+}
