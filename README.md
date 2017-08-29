@@ -36,6 +36,7 @@
 *  **Overpass_Mono**
 *  **PT_Mono**
 *  **Share_Tech_Mono**
+*  **inziu-iosevka-ttfs**
 
 >>20170828更新
 
