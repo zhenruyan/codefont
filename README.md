@@ -5,7 +5,7 @@
 
 运行``./install.sh`` 安装全部字体
 
-
+windows  运行windowsinstall脚本
 
 快速安装
 ------------------
@@ -16,6 +16,7 @@
     # install
     cd fonts
     ./install.sh
+	windows  运行windowsinstall脚本
     # clean-up a bit
     cd ..
     rm -rf fonts
