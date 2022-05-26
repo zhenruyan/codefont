@@ -1,5 +1,5 @@
 # 等宽字体快速安装脚本
-
+---
 
 **[Englisg Readme](https://github.com/zhenruyan/codefont/blob/master/readme_en.md)**
 
