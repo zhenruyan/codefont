@@ -1,13 +1,14 @@
 # 等宽字体快速安装脚本
 
+
 **[Englisg Readme](https://github.com/zhenruyan/codefont/blob/master/readme_en.md)**
 
+## 快速安装
 
 运行``./install.sh`` 安装全部字体
 
 windows  运行windowsinstall脚本
 
-快速安装
 ------------------
 
 ```
